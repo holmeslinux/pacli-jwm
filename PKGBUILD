@@ -2,7 +2,7 @@
 
 pkgname=pacli-jwm
 pkgver=0.1
-pkgrel=1
+pkgrel=2
 pkgdesc="an interactive pacman interface using pmenu"
 arch=(any)
 url="https://github.com/holmeslinux/$pkgname"
